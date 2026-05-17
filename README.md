@@ -6,7 +6,9 @@ A Flutter mobile application to help users manage, organize, and monitor all the
 
 ## Screenshots
 
-> _Add screenshots of your app here_
+<img width="487" height="1082" alt="Screenshot 2026-05-18 013654" src="https://github.com/user-attachments/assets/90669b48-fa7f-476e-8597-831e043f5ba8" />
+<img width="488" height="1090" alt="Screenshot 2026-05-18 013707" src="https://github.com/user-attachments/assets/8ba34b9f-bc9e-4913-9713-9e108dc8cf69" />
+
 
 ---
 
