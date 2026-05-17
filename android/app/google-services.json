@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040505253411",
+    "project_id": "billing-b4dae",
+    "storage_bucket": "billing-b4dae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040505253411:android:a2d0e66386b0de895b0b96",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTHxKYHpEQOccJFPBEj8kBEll1rhv2YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
